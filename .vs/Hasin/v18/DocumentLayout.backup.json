@@ -1,0 +1,561 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.application\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|solutionrelative:hasin.application\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|solutionrelative:hasin.api\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.api\\registrations\\registration.service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|solutionrelative:hasin.api\\registrations\\registration.service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.api\\registrations\\exceptionhandlingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|solutionrelative:hasin.api\\registrations\\exceptionhandlingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.application\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|solutionrelative:hasin.application\\services\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BFD4BA-F3E2-4E99-BCF9-80E41500B132}|Hasin.Infrastructure\\Hasin.Infrastructure.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.infrastructure\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BFD4BA-F3E2-4E99-BCF9-80E41500B132}|Hasin.Infrastructure\\Hasin.Infrastructure.csproj|solutionrelative:hasin.infrastructure\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BFD4BA-F3E2-4E99-BCF9-80E41500B132}|Hasin.Infrastructure\\Hasin.Infrastructure.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.infrastructure\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BFD4BA-F3E2-4E99-BCF9-80E41500B132}|Hasin.Infrastructure\\Hasin.Infrastructure.csproj|solutionrelative:hasin.infrastructure\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BFD4BA-F3E2-4E99-BCF9-80E41500B132}|Hasin.Infrastructure\\Hasin.Infrastructure.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.infrastructure\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BFD4BA-F3E2-4E99-BCF9-80E41500B132}|Hasin.Infrastructure\\Hasin.Infrastructure.csproj|solutionrelative:hasin.infrastructure\\repositories\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|solutionrelative:hasin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|solutionrelative:hasin.api\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.application\\mappers\\contactmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|solutionrelative:hasin.application\\mappers\\contactmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.application\\models\\contacts\\getcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|solutionrelative:hasin.application\\models\\contacts\\getcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\hasin.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\hasin.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BFD4BA-F3E2-4E99-BCF9-80E41500B132}|Hasin.Infrastructure\\Hasin.Infrastructure.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.infrastructure\\hasin.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3BFD4BA-F3E2-4E99-BCF9-80E41500B132}|Hasin.Infrastructure\\Hasin.Infrastructure.csproj|solutionrelative:hasin.infrastructure\\hasin.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.api\\hasin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|solutionrelative:hasin.api\\hasin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.application\\hasin.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|solutionrelative:hasin.application\\hasin.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9FB4585-AAE6-40B2-AD41-154AE1DAED5E}|Hasin.Api\\Hasin.Api.csproj|solutionrelative:hasin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\specifications\\bases\\andspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\specifications\\bases\\andspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.application\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BDDAC8-2B08-48FD-9266-07C4A7E85162}|Hasin.Application\\Hasin.Application.csproj|solutionrelative:hasin.application\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF1DDF4-46CE-4C03-9CC2-1A86556C30A4}|Hasin.Test.Unit\\Hasin.Test.Unit.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.test.unit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF1DDF4-46CE-4C03-9CC2-1A86556C30A4}|Hasin.Test.Unit\\Hasin.Test.Unit.csproj|solutionrelative:hasin.test.unit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39D2494-F040-4315-B2CF-DAD8BB7C03A8}|Hasin.Test.Integration\\Hasin.Test.Integration.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.test.integration\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39D2494-F040-4315-B2CF-DAD8BB7C03A8}|Hasin.Test.Integration\\Hasin.Test.Integration.csproj|solutionrelative:hasin.test.integration\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D39D2494-F040-4315-B2CF-DAD8BB7C03A8}|Hasin.Test.Integration\\Hasin.Test.Integration.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.test.integration\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D39D2494-F040-4315-B2CF-DAD8BB7C03A8}|Hasin.Test.Integration\\Hasin.Test.Integration.csproj|solutionrelative:hasin.test.integration\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\specifications\\bases\\orspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\specifications\\bases\\orspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\specifications\\bases\\parameterreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\specifications\\bases\\parameterreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|c:\\users\\amirehsan\\downloads\\hasin\\hasin\\hasin.model\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E47391E-714E-4769-BC6F-5C76FF56F44C}|Hasin.Model\\Hasin.Model.csproj|solutionrelative:hasin.model\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Infrastructure\\Repositories\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Hasin.Infrastructure\\Repositories\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Infrastructure\\Repositories\\InMemoryRepository.cs",
+              "RelativeToolTip": "Hasin.Infrastructure\\Repositories\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:43:48.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Infrastructure\\Repositories\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Hasin.Infrastructure\\Repositories\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Infrastructure\\Repositories\\ContactRepository.cs",
+              "RelativeToolTip": "Hasin.Infrastructure\\Repositories\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:43:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "Hasin.Application\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Services\\ContactService.cs",
+              "RelativeToolTip": "Hasin.Application\\Services\\ContactService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:42:00.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Services\\IContactService.cs",
+              "RelativeDocumentMoniker": "Hasin.Application\\Services\\IContactService.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Services\\IContactService.cs",
+              "RelativeToolTip": "Hasin.Application\\Services\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:42:22.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Hasin.Api\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Hasin.Api\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:50:43.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.Service.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Registrations\\Registration.Service.cs",
+              "RelativeDocumentMoniker": "Hasin.Api\\Registrations\\Registration.Service.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Registrations\\Registration.Service.cs",
+              "RelativeToolTip": "Hasin.Api\\Registrations\\Registration.Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:51:33.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Hasin.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Program.cs",
+              "RelativeToolTip": "Hasin.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:46:28.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Infrastructure\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "Hasin.Infrastructure\\Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Infrastructure\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "Hasin.Infrastructure\\Repositories\\TagRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:43:49.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlingMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Registrations\\ExceptionHandlingMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Hasin.Api\\Registrations\\ExceptionHandlingMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Registrations\\ExceptionHandlingMiddlewareExtensions.cs",
+              "RelativeToolTip": "Hasin.Api\\Registrations\\ExceptionHandlingMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:49:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Hasin.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Hasin.Api\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:48:51.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactMappers.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Mappers\\ContactMappers.cs",
+              "RelativeDocumentMoniker": "Hasin.Application\\Mappers\\ContactMappers.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Mappers\\ContactMappers.cs",
+              "RelativeToolTip": "Hasin.Application\\Mappers\\ContactMappers.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:42:43.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Hasin.Model\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Hasin.Model\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:38:54.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetContactDto.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Models\\Contacts\\GetContactDto.cs",
+              "RelativeDocumentMoniker": "Hasin.Application\\Models\\Contacts\\GetContactDto.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Models\\Contacts\\GetContactDto.cs",
+              "RelativeToolTip": "Hasin.Application\\Models\\Contacts\\GetContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:19:00.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Hasin.Model\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Hasin.Model\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T18:20:36.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hasin.Model",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Hasin.Model.csproj",
+              "RelativeDocumentMoniker": "Hasin.Model\\Hasin.Model.csproj",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Hasin.Model.csproj",
+              "RelativeToolTip": "Hasin.Model\\Hasin.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-26T17:44:00.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Hasin.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Infrastructure\\Hasin.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Hasin.Infrastructure\\Hasin.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Infrastructure\\Hasin.Infrastructure.csproj",
+              "RelativeToolTip": "Hasin.Infrastructure\\Hasin.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-26T17:42:23.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hasin.Api",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Hasin.Api.csproj",
+              "RelativeDocumentMoniker": "Hasin.Api\\Hasin.Api.csproj",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\Hasin.Api.csproj",
+              "RelativeToolTip": "Hasin.Api\\Hasin.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-26T18:04:48.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Hasin.Application",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Hasin.Application.csproj",
+              "RelativeDocumentMoniker": "Hasin.Application\\Hasin.Application.csproj",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Hasin.Application.csproj",
+              "RelativeToolTip": "Hasin.Application\\Hasin.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-26T18:04:57.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Repositories\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "Hasin.Model\\Repositories\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Repositories\\ITagRepository.cs",
+              "RelativeToolTip": "Hasin.Model\\Repositories\\ITagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:59:08.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Hasin.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Api\\appsettings.json",
+              "RelativeToolTip": "Hasin.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-26T17:50:56.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "Hasin.Application\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Application\\Services\\TagService.cs",
+              "RelativeToolTip": "Hasin.Application\\Services\\TagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:42:23.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AndSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Specifications\\Bases\\AndSpecification.cs",
+              "RelativeDocumentMoniker": "Hasin.Model\\Specifications\\Bases\\AndSpecification.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Specifications\\Bases\\AndSpecification.cs",
+              "RelativeToolTip": "Hasin.Model\\Specifications\\Bases\\AndSpecification.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:39:03.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Test.Unit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Hasin.Test.Unit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Test.Unit\\UnitTest1.cs",
+              "RelativeToolTip": "Hasin.Test.Unit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:42:20.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Test.Integration\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Hasin.Test.Integration\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Test.Integration\\UnitTest1.cs",
+              "RelativeToolTip": "Hasin.Test.Integration\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:42:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Test.Integration\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Hasin.Test.Integration\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Test.Integration\\GlobalUsings.cs",
+              "RelativeToolTip": "Hasin.Test.Integration\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:42:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Specifications\\Bases\\OrSpecification.cs",
+              "RelativeDocumentMoniker": "Hasin.Model\\Specifications\\Bases\\OrSpecification.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Specifications\\Bases\\OrSpecification.cs",
+              "RelativeToolTip": "Hasin.Model\\Specifications\\Bases\\OrSpecification.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:40:26.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ParameterReplacer.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Specifications\\Bases\\ParameterReplacer.cs",
+              "RelativeDocumentMoniker": "Hasin.Model\\Specifications\\Bases\\ParameterReplacer.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Specifications\\Bases\\ParameterReplacer.cs",
+              "RelativeToolTip": "Hasin.Model\\Specifications\\Bases\\ParameterReplacer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:40:21.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "Hasin.Model\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Entities\\Tag.cs",
+              "RelativeToolTip": "Hasin.Model\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:38:57.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "Hasin.Model\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\Amirehsan\\Downloads\\Hasin\\Hasin\\Hasin.Model\\Entities\\Contact.cs",
+              "RelativeToolTip": "Hasin.Model\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T17:38:55.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

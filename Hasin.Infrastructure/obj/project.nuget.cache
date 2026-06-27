@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4tUQrompETc=",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\new\\Hasin\\HasinPhoneBook\\Hasin.Infrastructure\\Hasin.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\11.0.0-preview.5.26302.115\\microsoft.extensions.caching.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.caching.memory\\11.0.0-preview.5.26302.115\\microsoft.extensions.caching.memory.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0-preview.5.26302.115\\microsoft.extensions.dependencyinjection.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\11.0.0-preview.5.26302.115\\microsoft.extensions.logging.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.options\\11.0.0-preview.5.26302.115\\microsoft.extensions.options.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0-preview.5.26302.115\\microsoft.extensions.primitives.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\11.0.0-preview.5.26302.115\\system.diagnostics.diagnosticsource.11.0.0-preview.5.26302.115.nupkg.sha512"
+  ],
+  "logs": []
+}

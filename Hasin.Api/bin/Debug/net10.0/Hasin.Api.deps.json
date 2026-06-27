@@ -1,0 +1,265 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Hasin.Api/1.0.0": {
+        "dependencies": {
+          "Hasin.Application": "1.0.0",
+          "Hasin.Infrastructure": "1.0.0",
+          "Swashbuckle.AspNetCore.SwaggerGen": "10.2.3",
+          "Swashbuckle.AspNetCore.SwaggerUI": "10.2.3"
+        },
+        "runtime": {
+          "Hasin.Api.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Caching.Abstractions/11.0.0-preview.5.26302.115": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "11.0.0-preview.5.26302.115"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.30315"
+          }
+        }
+      },
+      "Microsoft.Extensions.Caching.Memory/11.0.0-preview.5.26302.115": {
+        "dependencies": {
+          "Microsoft.Extensions.Caching.Abstractions": "11.0.0-preview.5.26302.115",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "11.0.0-preview.5.26302.115",
+          "Microsoft.Extensions.Logging.Abstractions": "11.0.0-preview.5.26302.115",
+          "Microsoft.Extensions.Options": "11.0.0-preview.5.26302.115",
+          "Microsoft.Extensions.Primitives": "11.0.0-preview.5.26302.115",
+          "System.Diagnostics.DiagnosticSource": "11.0.0-preview.5.26302.115"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Caching.Memory.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.30315"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/11.0.0-preview.5.26302.115": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.30315"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/11.0.0-preview.5.26302.115": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "11.0.0-preview.5.26302.115",
+          "System.Diagnostics.DiagnosticSource": "11.0.0-preview.5.26302.115"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.30315"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/11.0.0-preview.5.26302.115": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "11.0.0-preview.5.26302.115",
+          "Microsoft.Extensions.Primitives": "11.0.0-preview.5.26302.115"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.30315"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/11.0.0-preview.5.26302.115": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.30315"
+          }
+        }
+      },
+      "Microsoft.OpenApi/2.7.5": {
+        "runtime": {
+          "lib/net8.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "2.7.5.0",
+            "fileVersion": "2.7.5.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/10.2.3": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.7.5"
+        },
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "assemblyVersion": "10.2.3.0",
+            "fileVersion": "10.2.3.2721"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/10.2.3": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "10.2.3"
+        },
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "assemblyVersion": "10.2.3.0",
+            "fileVersion": "10.2.3.2721"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/10.2.3": {
+        "runtime": {
+          "lib/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "10.2.3.0",
+            "fileVersion": "10.2.3.2721"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/11.0.0-preview.5.26302.115": {
+        "runtime": {
+          "lib/net10.0/System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.26.30315"
+          }
+        }
+      },
+      "Hasin.Application/1.0.0": {
+        "dependencies": {
+          "Hasin.Model": "1.0.0"
+        },
+        "runtime": {
+          "Hasin.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Hasin.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Hasin.Model": "1.0.0",
+          "Microsoft.Extensions.Caching.Memory": "11.0.0-preview.5.26302.115"
+        },
+        "runtime": {
+          "Hasin.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Hasin.Model/1.0.0": {
+        "runtime": {
+          "Hasin.Model.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hasin.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Caching.Abstractions/11.0.0-preview.5.26302.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k3nxhCWxL/Sw9tT4J4YdmL5BDmrlIk2SlMt0tF0vLKWoGfIhuv4twpRsT6NjZBgwYs8tbRii/ENX5mrQCyJe+g==",
+      "path": "microsoft.extensions.caching.abstractions/11.0.0-preview.5.26302.115",
+      "hashPath": "microsoft.extensions.caching.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Caching.Memory/11.0.0-preview.5.26302.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f/quLsEDs3YFYwh8ydwHTMt2WyLyWQ55aCn39w4cX3UXR3hlkY+dAnzQptOdc7G9YoAq7qrmyTMOBItoz1CwEw==",
+      "path": "microsoft.extensions.caching.memory/11.0.0-preview.5.26302.115",
+      "hashPath": "microsoft.extensions.caching.memory.11.0.0-preview.5.26302.115.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/11.0.0-preview.5.26302.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nzNGibeGTnKjg/jEiEzTIntkB/ZPIZ+Ibxt7x1hY6KGY75j3EY+Wxc5PmxcvJgoCQng62JiIJqlmthDlajdGUw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/11.0.0-preview.5.26302.115",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/11.0.0-preview.5.26302.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H/U9caalNiFxt4EZOR/FA69CxjHsLjnpQtA7hW2Gisu0iUZci5mh/C6ric1XygcwNOB4eUu2UwyDA6/3IDT1oA==",
+      "path": "microsoft.extensions.logging.abstractions/11.0.0-preview.5.26302.115",
+      "hashPath": "microsoft.extensions.logging.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/11.0.0-preview.5.26302.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NAWRc9WlFlkyv15E2OyXVPg+3kz+HBP19v/h37v9dpsc8Ef3cZ06F5vd/NJe1mvgWTNoDT/8iwEq9iCejE/phQ==",
+      "path": "microsoft.extensions.options/11.0.0-preview.5.26302.115",
+      "hashPath": "microsoft.extensions.options.11.0.0-preview.5.26302.115.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/11.0.0-preview.5.26302.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QXjrkVXpRDX2N2gPhwSgCx6vUaDO6rFMELtulZ+ppeFu1y7fdb7Hhh3lzdo9AKxk/0z8kYESCDyCp+pa75D75g==",
+      "path": "microsoft.extensions.primitives/11.0.0-preview.5.26302.115",
+      "hashPath": "microsoft.extensions.primitives.11.0.0-preview.5.26302.115.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/2.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0FA67RSnRM4tcBKqiqVu/HPdZ9+QOKbmeRjxRUGTCjPU4C0bmUhd97Dso7Yild5P7nOV6GxJ2xrK0Kv/O9xp0w==",
+      "path": "microsoft.openapi/2.7.5",
+      "hashPath": "microsoft.openapi.2.7.5.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Swagger/10.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1jUUs3WQnrS0FUtaZPLSy1yYMEwS1zlvDmvQ2/eldPHUANX0LJSLVZecCMgSMdeGiRqeaRrIXLtSz++TCiTMww==",
+      "path": "swashbuckle.aspnetcore.swagger/10.2.3",
+      "hashPath": "swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/10.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y7t4coDRAeFYChmvlMRiH2OjbiRrm9AVIDgt17fQfs3x9PVAI5PiwWYOhg+4F13R4Q36WDc9lqfoOnNa3tNbGg==",
+      "path": "swashbuckle.aspnetcore.swaggergen/10.2.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/10.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nthWONRs/FJ4yyG206g1cC52WEG8EqrjuMWjGdR+5XG7lbjFto6NqcI9EMICgVFom/UivIjUVwI76ZHbHwTPfQ==",
+      "path": "swashbuckle.aspnetcore.swaggerui/10.2.3",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/11.0.0-preview.5.26302.115": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HlHyLbS1Rsh3zXfsLWiheGV6h+xTj9L9EPg7OhqO5w3LORLgiN7ffok2DuG/JInwdBwKKyiH6AIoBdkcq9B+pQ==",
+      "path": "system.diagnostics.diagnosticsource/11.0.0-preview.5.26302.115",
+      "hashPath": "system.diagnostics.diagnosticsource.11.0.0-preview.5.26302.115.nupkg.sha512"
+    },
+    "Hasin.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hasin.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hasin.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

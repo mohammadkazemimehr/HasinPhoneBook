@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZ9yw9tDfYc=",
+  "success": true,
+  "projectFilePath": "C:\\Repo\\new\\Hasin\\HasinPhoneBook\\Hasin.Api\\Hasin.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\11.0.0-preview.5.26302.115\\microsoft.extensions.caching.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.caching.memory\\11.0.0-preview.5.26302.115\\microsoft.extensions.caching.memory.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0-preview.5.26302.115\\microsoft.extensions.dependencyinjection.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\11.0.0-preview.5.26302.115\\microsoft.extensions.logging.abstractions.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.options\\11.0.0-preview.5.26302.115\\microsoft.extensions.options.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0-preview.5.26302.115\\microsoft.extensions.primitives.11.0.0-preview.5.26302.115.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.3\\swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.3\\swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512",
+    "C:\\Users\\mo.kazemi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\11.0.0-preview.5.26302.115\\system.diagnostics.diagnosticsource.11.0.0-preview.5.26302.115.nupkg.sha512"
+  ],
+  "logs": []
+}
